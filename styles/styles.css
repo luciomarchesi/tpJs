@@ -1,0 +1,45 @@
+.underline-dotted {
+    text-decoration-style: dotted;
+}
+
+.send-button {
+    background-color: rgb(151, 201, 62);
+    justify-content: center;
+}
+
+.text-color {
+    color:rgb(138, 202, 77);
+}
+
+.send-button:hover {
+    background-color: rgb(78, 124, 40);
+}
+
+.footer-link-li {
+    width: 120px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+    text-align: center;
+}
+
+.span-style {
+    margin-right: 5px;
+}
+
+.footer-color {
+    background-color: rgb(20, 61, 88);
+}
+
+.placeholder-color {
+    background-color: rgb(178, 215, 255)
+}
+
+.textplace-color {
+    color:rgb(19, 55, 102)
+}
+
+.minHeight {
+    min-height: 750px;
+}
